@@ -1,4 +1,6 @@
-# moviesearch
+# Beaker37
+
+[![pylint](https://github.com/jxkrause/beaker37/actions/workflows/pylint.yml/badge.svg)](https://github.com/jxkrause/beaker37/actions/workflows/pylint.yml)
 
 Beaker37 is a Python library for recommending for movies.
 
