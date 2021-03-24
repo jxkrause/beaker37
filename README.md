@@ -7,7 +7,7 @@ Beaker37 is a Python library for recommending for movies.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install beaker37.
 
 ```bash
-pip install beaker37
+pip install git+https://github.com/jxkrause/beaker37
 ```
 
 ## Usage
