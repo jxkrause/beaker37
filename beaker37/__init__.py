@@ -27,4 +27,3 @@ if os.getenv('PSQL_URI') is None:
         or the file where the environment variable BEAKER37ENV points to
         """
     )
-    
