@@ -4,8 +4,10 @@ contains class that translate user input to existing movie names
 """
 from beaker37.BaseRecommender import BaseRecommender
 
+
 class InputValidation(BaseRecommender):
     "class that translate user input to existing movie names"
+
     def __init__(self):
         super().__init__()
 
